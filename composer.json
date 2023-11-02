@@ -1,0 +1,17 @@
+{
+  "name": "ivan/my-admin-panel",
+  "autoload": {
+    "psr-4": {
+      "app\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ivan Roch Nikonov",
+      "email": "iv.terornik@yandex.ru"
+    }
+  ],
+  "require": {
+    "smarty/smarty": "^4.3"
+  }
+}
